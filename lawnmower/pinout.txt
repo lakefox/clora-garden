@@ -1,0 +1,20 @@
+1 [MCP3008 PIN 16 (VDD)] - 2
+3                        - 4
+5                        - 6 [MCP3008 PIN 14/9 (AGND/DGND)]
+7                        - 8 [UART GPS RX]
+9                        - 10 [UART GPS TX]
+11 [Servo 1]             - 12 [MCP3008 PIN 13 (CLK)]
+13 [Servo 2]             - 14
+15 [ESC]                 - 16 [MCP3008 PIN 12 (Dout)]
+17                       - 18 [MCP3008 PIN 11 (Din)]
+19                       - 20
+21                       - 22 [MCP3008 PIN 10 (CS/SHDN)]
+23                       - 24
+25                       - 26
+27                       - 28
+29 [HW134 PIN 7 (DIR)]  - 30
+31 [HW134 PIN 8 (STEP)]   - 32
+33                       - 34
+35                       - 36 [HW134 PIN 8 (DIR)]
+37 [HW134 PIN 7 (STEP)]  - 38
+39                       - 40

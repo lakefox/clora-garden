@@ -1,0 +1,77 @@
+"Chives in the Garden
+Chives
+Summary
+
+
+Planting and Spacing
+Chives, regardless of planting method (seeds or transplants), should be spaced 4-6 inches apart. Dividing existing plants into smaller units easily propagates chives. Chive beds should be renovated (divided) every 2-3 years. Chives may be grown as an indoor plant. Plant in pots filled with potting soil. Water and feed regularly to maintain growth. Make sure the plants receive plenty of light especially during the winter months.
+
+Water
+Chives require regular watering throughout growth for best production. Soils need to be maintained near field capacity. Moisten the soil thoroughly when watering. Chives will survive periods of drought stress but growth and productivity will decrease.
+
+Fertilization
+Chives need little additional fertilizer for optimum yields. Sidedress in May and July with 1 teaspoon of 21-0-0 fertilizer per square foot to ensure good growth and high yields.
+
+Mulches and Row Covers
+Organic mulches help conserve water, supply extra nutrients, and reduce weeding.
+
+Problems
+Weeds
+Control weeds through regular cultivation but avoid root damage that slows plant growth by damaging shallow roots. Mulches may also be used to control weeds. Weed control is particularly important during the first 2 months of growth when plants are growing slowly and compete poorly.
+
+Harvest and Storage
+Chives may be harvested as early as 60 days after seeding or 30 days after transplanting. Harvest the leaves with scissors or a knife, cutting the plants back to within 1-2 inches of the soil. Harvest 3-4 times during the first year. In subsequent years, cut plants back monthly. Harvest potted chives in a similar manner to garden chives. Chives generally flower in May and June. The small purple flowers and stalks are unpalatable and should be discarded. Chives may be used fresh or dried for later use. Store dried chives in a resealable container in a cool, dry place.
+
+Productivity
+One chive seed will produce a clump of chives in a matter of a couple months. The clump can then be harvested as outlined above. 20-25 plants will provide enough chives for fresh and dried use.
+
+Nutrition
+A 1 tablespoon serving of raw chives is low in Saturated Fat, and very low in cholesterol and sodium. It is also a good source of thiamin, phosphorus and zinc, and a very good source of dietary fiber, vitamin A, vitamin C, riboflavin, vitamin B6, folate, calcium, iron, magnesium, potassium and copper.
+
+Frequently Asked Questions
+Q. How big do chives get? Over time, chives will form a clump that is 8-10 inches tall and may spread nearly one foot across. You will find that the plants are most productive if they are divided regularly.
+
+Q. When is the best time to divide my chives? When dividing plants, do it in the spring. Let the plants reestablish themselves for several weeks before beginning to harvest them again. If you want to grow some indoors, dig and divide in the autumn and replant them outdoors the following spring."
+
+Given the above document, write an easy to understand guide on how to grow the plant:
+
+Chives are a cool-season crop that prefer full sun and well-drained soils. They are cold-tolerant and can be planted from seeds, transplants, or divisions. Chives should be spaced 4-6 inches apart. They need regular watering and little additional fertilizer. Chives can be harvested as early as 60 days after seeding or 30 days after transplanting.
+
+Fill out the following JSON document with data that will help a robot grow the plant:
+
+{
+ hoursOfSun: Int,
+inchesOfWater: Int,
+timesWateredPerWeek: Int,
+plantSpacingInches: Int,
+daysToHarvest: Int,
+preferedWeather: String
+}
+
+{
+  "hoursOfSun": 6,
+  "inchesOfWater": 1,
+  "timesWateredPerWeek": 2,
+  "plantSpacingInches": 4,
+  "daysToHarvest": 60,
+  "preferedWeather": "cool"
+}
+
+`
+"${document}"
+Given the above document, write an easy to understand guide on how to grow the plant:
+
+RESPONCE
+
+Fill out the following JSON document with data that will help a robot grow the plant:
+
+{
+ hoursOfSun: Int,
+inchesOfWater: Int,
+timesWateredPerWeek: Int,
+plantSpacingInches: Int,
+daysToHarvest: Int,
+preferedWeather: String
+}
+
+RESPONCE
